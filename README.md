@@ -43,8 +43,7 @@
 |<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Dhruvil17&theme=dark"/>|
 |---|---|
 
-<a href="#"><img alt="mukulrajpoot262610's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mukulrajpoot262610&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+<a href="#"><img alt="Dhruvil17's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Dhruvil17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
