@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Dhruvil Soni, an aspiring Software Enginner with good Problem-Solving Skills</h1>
+<h1 align="center">Hi 👋, I'm Dhruvil Soni, an aspiring Software Enginner</h1>
+
+<p align="right">
+<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
+  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
+</a>
+</p>
+
 <h3 align="center">I am passionate about Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvilsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvilsoni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvilsoni" alt="dhruvilsoni" /></a> </p>
+
+- 🎓 I am persuing my B.Tech in CSE from Pandit Deendayal Energy University (PDEU)
 
 - 🌱 I’m currently practising **React and Back-end Web Development**
 
@@ -34,18 +43,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvil17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
-
-<h2 align="center">
-  Welcome to Mukul Rajpoot's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
-  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
-</a>
-</p>
   
 <p align="center">
   <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
@@ -53,16 +50,6 @@
   <a href="https://github.com/mukulrajpoot262610?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<!-- <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
-<ul>
-  <li>I am Mukul Rajpoot, a guy who loves💖 to code</li>
-  <li>I am a freelance full-stack developer 🖥️</li>
-  <li>Currently, scratching my head in learning DevOps and web3 😅</li>
-  <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
-  <li><b>Marital status:</b> Married with Next.js 💖</li>
-  <li>Check out my website: https://mukulrajpoot.com </li>
-</ul> -->
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
@@ -113,9 +100,9 @@
    <a href="https://mukulrajpoot.com/"> <img alt="MongoDB" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvil17&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvil17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvilsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvilsoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvil17" alt="Dhruvil17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvilsoni" alt="dhruvilsoni" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvilsoni&show_icons=true&locale=en&layout=compact" alt="dhruvilsoni" /></p>
