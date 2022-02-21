@@ -3,7 +3,7 @@
 <h3 align="center">I am passionate about Full Stack Web Development</h3>
 
 <p align="center">
-  <a href="https://github.com/Dhruvil17?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Dhruvil17?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Dhruvil17" target="_blank"/></a>
   <a href="https://github.com/mukulrajpoot262610?tab=followers" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Dhruvil17?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
