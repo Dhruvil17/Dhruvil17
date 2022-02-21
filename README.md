@@ -61,6 +61,6 @@
 
    <a href="mailto:dhruvilsoni1703@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dhruvil-soni/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"><img alt="Medium" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="https://medium.com/@dhruvilsoni1703"><img alt="Medium" src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
    <a href="https://twitter.com/DhruvilSoni1703"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://www.instagram.com/dhruvilsoni17/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
