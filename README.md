@@ -28,7 +28,7 @@
 |<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Dhruvil17&theme=dark"/>|
 |---|---|
 
-<h1>Weapons</h1>
+<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
 
 ### 👨‍💻 Programming languages
 
@@ -72,4 +72,3 @@
    <a href="https://medium.com/@dhruvilsoni1703"><img alt="Medium" src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
    <a href="https://twitter.com/DhruvilSoni1703"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://www.instagram.com/dhruvilsoni17/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-   
