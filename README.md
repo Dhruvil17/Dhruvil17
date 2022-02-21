@@ -8,9 +8,9 @@
 
 <h3 align="center">I am passionate about Full Stack Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvilsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvilsoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvil17&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvil17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvilsoni" alt="dhruvilsoni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvil17" alt="Dhruvil17" /></a> </p>
 
 - 🎓 I am persuing my B.Tech in CSE from Pandit Deendayal Energy University (PDEU)
 
@@ -100,9 +100,9 @@
    <a href="https://mukulrajpoot.com/"> <img alt="MongoDB" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvilsoni&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvilsoni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvil17&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvil17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvilsoni" alt="dhruvilsoni" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvil17" alt="Dhruvil17" /></a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvilsoni&show_icons=true&locale=en&layout=compact" alt="dhruvilsoni" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
