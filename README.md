@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruvil Soni, an aspiring Software Enginner</h1>
 
-<p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
-  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
-</a>
-</p>
-
 <h3 align="center">I am passionate about Full Stack Web Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvil17&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvil17" /> </p>
@@ -37,6 +31,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
+<h1>My GitHub Stats</h1>
+
+|<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
+|---|---|
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&locale=en" alt="Dhruvil17" /></p>
@@ -50,11 +49,6 @@
   <a href="https://github.com/mukulrajpoot262610?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
-
-|<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
-|---|---|
 
 <a href="#"><img alt="mukulrajpoot262610's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mukulrajpoot262610&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
