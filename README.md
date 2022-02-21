@@ -92,7 +92,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
+<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/gip2hy.gif" width="48" /></h1>
 
    <a href="mailto:mukulrajpoot262610@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -101,8 +101,5 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhruvil17&label=Profile%20views&color=0e75b6&style=flat" alt="Dhruvil17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvil17" alt="Dhruvil17" /></a> </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
