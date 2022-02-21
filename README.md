@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruvil Soni, an aspiring Software Enginner</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">! I'm Dhruvil Soni, an aspiring Software Enginner</h1>
 
 <h3 align="center">I am passionate about Full Stack Web Development</h3>
 
@@ -73,26 +73,3 @@
    <a href="https://twitter.com/DhruvilSoni1703"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://www.instagram.com/dhruvilsoni17/"><img alt="Instagram" src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    
-   
-   
-
-<h2 align="center">
-  Welcome to Mukul Rajpoot's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<p align="right">
-<a href="https://wakatime.com/@55be6508-87ce-4273-875e-f007b4032b9d">
-  <img src="https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg?style=social" alt="Total time coded since Sep 27 2021" />
-</a>
-</p>
-  
-<p align="center">
-  <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mukulrajpoot262610"/></a>
-  <a href="https://github.com/mukulrajpoot262610?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-|<img align=center alt="mukulrajpoot262610's streak" src="https://github-readme-stats.vercel.app/api?username=mukulrajpoot262610&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
-|---|---|
