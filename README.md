@@ -54,7 +54,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mukulrajpoot262610?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
+<!-- <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
 <ul>
   <li>I am Mukul Rajpoot, a guy who loves💖 to code</li>
   <li>I am a freelance full-stack developer 🖥️</li>
@@ -62,7 +62,7 @@
   <li>I am persuing my B.Tech CSE from Chandigarh University 🎓</li>
   <li><b>Marital status:</b> Married with Next.js 💖</li>
   <li>Check out my website: https://mukulrajpoot.com </li>
-</ul>
+</ul> -->
 
 <h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
 
@@ -111,3 +111,11 @@
    <a href="https://www.linkedin.com/in/mukul-rajpoot-262610/"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/MukulRa52680412"><img alt="MongoDB" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://mukulrajpoot.com/"> <img alt="MongoDB" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fmukulrajpoot.com"> </a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamgodseye&label=Profile%20views&color=0e75b6&style=flat" alt="iamgodseye" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamgodseye" alt="Dhruvil17" /></a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
