@@ -54,7 +54,7 @@
 <p>  
   <a href="https://github.com/Dhruvil17"><img alt="Node.js" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="https://github.com/Dhruvil17"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
-  \<a href="https://github.com/Dhruvil17"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://github.com/Dhruvil17"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://github.com/Dhruvil17"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
