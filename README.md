@@ -33,15 +33,8 @@
 
 <h1>My GitHub Stats</h1>
 
-|<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mukulrajpoot262610&theme=dark"/>|
+|<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Dhruvil17&theme=dark"/>|
 |---|---|
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhruvil17&show_icons=true&locale=en&layout=compact" alt="Dhruvil17" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&locale=en" alt="Dhruvil17" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhruvil17&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
   
 <p align="center">
   <a href="https://github.com/mukulrajpoot262610?tab=repositories&sort=stargazers">
