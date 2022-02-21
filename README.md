@@ -28,7 +28,7 @@
 |<img align=center alt="Dhruvi17's streak" src="https://github-readme-stats.vercel.app/api?username=Dhruvil17&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=Dhruvil17&theme=dark"/>|
 |---|---|
 
-<h1>Weapons <img src="https://media.giphy.com/media/2yzGTewUsGil0LFCTv/giphy.gif" width="48" /></h1>
+<h1>Weapons</h1>
 
 ### 👨‍💻 Programming languages
 
@@ -57,7 +57,7 @@
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge"></a>
 </p>
 
-<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/gip2hy.gif" width="48" /></h1>
+<h1>Social</h1>
 
    <a href="mailto:dhruvilsoni1703@gmail.com" target="_blank"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/dhruvil-soni/" target="_blank"><img alt="Heroku" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
