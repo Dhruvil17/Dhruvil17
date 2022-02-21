@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dhruvil17" alt="Dhruvil17"/></a> </p>
 
+<h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
+
 - 🎓 I am persuing my B.Tech in CSE from Pandit Deendayal Energy University (PDEU)
 
 - 🌱 I’m currently practising **React and Back-end Web Development**
