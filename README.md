@@ -39,7 +39,7 @@
   <a href="https://github.com/Dhruvil17"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
-### � Front-End Development Technologies
+### 🧰 Front-End Development Technologies
 <p>  
   <a href="https://github.com/Dhruvil17"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/Dhruvil17"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
